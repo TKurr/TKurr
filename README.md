@@ -3,17 +3,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TKurr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TKurr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=Top%205%20languages%20OAT??" height="150" alt="languages graph"  />
+  <img height="150" src="https://cdn.dribbble.com/users/416936/screenshots/3085528/praise-the-sun.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/416936/screenshots/3085528/praise-the-sun.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TKurr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=Top%205%20Languages%20OAT??" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -35,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/theo_kurr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
