@@ -55,8 +55,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TKurr/TKurr/output/snake.svg" alt="Snake animation" />
-
-###
